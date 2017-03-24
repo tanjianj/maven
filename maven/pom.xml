@@ -24,5 +24,6 @@
   </dependencies>
   <modules>
   <module>maven-common</module>
+    <module>maven-common-ws</module>
   </modules>
 </project>
