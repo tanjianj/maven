@@ -23,5 +23,6 @@
     </dependency>
   </dependencies>
   <modules>
+  <module>maven-common</module>
   </modules>
 </project>
